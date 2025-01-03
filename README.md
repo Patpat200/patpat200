@@ -1,6 +1,16 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7100F7&width=435&lines=Hellooo+%3AD;%E3%82%B8%E3%83%BB%E3%82%B9%E3%83%BB%E3%83%91%E3%83%83%E3%83%88)](https://git.io/typing-svg)
+  
+- 🖥️ I'm learning programming
 
+- 🛩️ Love traveling the **world** 
 
+- 🌎 Speak 🇫🇷 (a little bit 🇺🇸)
+
+- 📊 Check my [WakaTime Profile](https://wakatime.com/@StevenTed) for more statistics
+
+- 🎮 I play minecraft
+
+---
 
 ## Socials
 
@@ -31,3 +41,5 @@
 &nbsp;
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 &nbsp;
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patpat200)](https://git.io/streak-stats)
