@@ -9,7 +9,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/patpat_212/)
 
 
-## Languages I want to learn
+## Languages I want to learn, & tools
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/)
 &nbsp;
@@ -23,17 +23,9 @@
 &nbsp;
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
 &nbsp;
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-&nbsp;
-[![Webflow](https://skillicons.dev/icons?i=webflow)](https://webflow.com/)
-&nbsp;
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/fr)
 <br>
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-&nbsp;
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-&nbsp;
-[![Notion](https://skillicons.dev/icons?i=notion)](https://notion.so)
 &nbsp;
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 &nbsp;
