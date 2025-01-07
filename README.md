@@ -6,7 +6,7 @@
 
 - 🌎 Speak 🇫🇷 (a little bit 🇺🇸)
 
-- 📊 Check my [WakaTime Profile](https://wakatime.com/@StevenTed) for more statistics
+- 📊 Check my [WakaTime Profile](https://wakatime.com/) for more statistics
 
 - 🎮 I play minecraft
 
