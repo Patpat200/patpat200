@@ -6,8 +6,6 @@
 
 - 🌎 Speak 🇫🇷 (a little bit 🇺🇸)
 
-- 📊 Check my [WakaTime Profile](https://wakatime.com/) for more statistics
-
 - 🎮 I play minecraft
 
 ---
@@ -42,4 +40,3 @@
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 &nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patpat200)](https://git.io/streak-stats)
