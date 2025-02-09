@@ -39,5 +39,8 @@
 &nbsp;
 [![discordjs](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/)
 &nbsp;
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
+&nbsp;
+
 
 
