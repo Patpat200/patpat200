@@ -37,6 +37,7 @@
 &nbsp;
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 &nbsp;
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![discordjs](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/)
 &nbsp;
+
 
