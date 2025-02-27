@@ -6,7 +6,7 @@
 
 - 🌎 Speak 🇫🇷 (a little bit 🇺🇸)
 
-- 🎮 I play minecraft
+- 🎮 I play minecraft, cs2, and more game
 
 ---
 
