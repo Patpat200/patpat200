@@ -12,7 +12,7 @@
 
 ## Socials
 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/Cy95c6EJ)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/689798565647614190)
 &nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/patpat_212/)
 
