@@ -10,13 +10,6 @@
 
 ---
 
-## Socials
-
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/689798565647614190)
-&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/patpat_212/)
-
-
 ## Languages I want to learn, & tools
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/)
