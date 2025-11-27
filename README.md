@@ -8,7 +8,7 @@
 
 - 🎮 I play minecraft, cs2, and more game
 
----
+--
 
 ## Languages I want to learn, & tools
 
