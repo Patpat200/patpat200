@@ -39,11 +39,3 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-
-  <img alt="github-snake" src="https://github.com/Patpat200/patpat200/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-###
