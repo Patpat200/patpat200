@@ -47,6 +47,9 @@ My best web site : https://mini.gregos.org/ :)
 ###
 
 <div align="center">
+  <img height="170" src="./profile/stats.svg" alt="GitHub Stat" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top language" />
+  <br />
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </div>
 
