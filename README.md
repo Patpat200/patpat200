@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! I'm patpat♡, an 19 years old programmer from France.</h2>
 
-My best web site : https://mini.gregos.org/ :)
-
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/ae9ran.gif"  />
